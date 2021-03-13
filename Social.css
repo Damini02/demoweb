@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+  }
+  .body_section{
+    padding : 3% 5% 1%;
+  }
+  
+  .headerachor {
+    color: black;
+    margin: 0 7px 0 7px;
+    font-size: 25px;
+  }
+  
+  .headerachor:hover {
+    background-color: #f1f1f1;
+  }
+  ul{
+    
+    background:#ff9999;
+    padding:20px ;
+  } 
+  h1{font-family: sans-serif;
+  font-weight: bold;
+}
+
+  .fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 30px;
+color:#ff9999;
+    text-decoration: none;
+    margin: 0 7px 0;
+      display:block;
+      
+      
+  }
+  
+

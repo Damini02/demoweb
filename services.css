@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+  }
+  .body_section{
+    padding : 3% 5% 1%;
+  }
+  
+  .headerachor {
+    color: black;
+    margin: 0 7px 0 7px;
+    font-size: 25px;
+  }
+  
+  .headerachor:hover {
+    background-color: #f1f1f1;
+  }
+  ul{
+    list-style-type: circle;
+    background:#ff9999;
+    padding:20px ;
+  }
+    

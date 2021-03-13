@@ -1,0 +1,43 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+  }
+  .body_section{
+    padding : 3% 5% 1%;
+  }
+  .headerachor {
+    color: black;
+    margin: 0 7px 0 7px;
+    font-size: 25px;
+  }
+  
+  .headerachor:hover {
+    background-color: #f1f1f1;
+  }
+  
+  h4{
+        font:20px optima,sans-serif;
+        color: #351458;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+position: absolute;
+top: 350px;
+  }
+  ul{
+    
+    background:#ff9999;
+    padding:20px ;
+  }
+  
+
+    
+   
+  
+  
+ 
+  
+
+
